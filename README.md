@@ -1,5 +1,6 @@
 ### Hello There!
 😄 Pronouns: He/Him
 
-🔭 I’m currently Open to work!  
-🌱 I’m currently learning Data Science/Deep Learning/Machine Learning
+🔭 I’m currently working on projects at NCATS and NCI!  
+🌱 I’m currently learning Data Science/Streamlit/R Shiny
+ 
